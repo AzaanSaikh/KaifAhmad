@@ -136,19 +136,3 @@ hr{
   position: absolute;
   left: 8.75rem;
 }
-.cat{
-  position: absolute;
-  right: 512px;
-  width: 5%;
-
-}
-.touch{
-  position: absolute;
-  right: 464px;
-  width: 5%;
-
-}
-.touch:hover{
-  weight: normal;
-
-}
